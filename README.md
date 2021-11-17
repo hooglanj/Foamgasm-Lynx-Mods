@@ -1,4 +1,4 @@
-# Foamgasm-Lynx-Mods
+# Foamgasm Lynx Mods
 Mods for the Orion Lynx blaster
 
 ![image](https://user-images.githubusercontent.com/33273931/142133628-3b84a365-102c-4ad1-a6dc-da28af6b33f6.png)
