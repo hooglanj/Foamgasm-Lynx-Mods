@@ -3,7 +3,11 @@ Mods for the Orion Lynx blaster
 
 ![image](https://user-images.githubusercontent.com/33273931/142133628-3b84a365-102c-4ad1-a6dc-da28af6b33f6.png)
 
-Pump with integral foregrip and knurling.  With and without Lynx logo.
+  Pump with integral foregrip and knurling.  With and without Lynx logo.
+  
+![image](https://user-images.githubusercontent.com/33273931/147861594-fec3dc4b-9738-47b4-973f-6dd13fe228a0.png)
+
+  Picatinny foregrip with knurling.
 
 Grip backstrap with knurling.  May be used on foregrip or receiver.
 
@@ -16,7 +20,11 @@ Bearing Scar for use specifically on Lynx blasters with 16mm OD barrel. 10° twi
 
 Mounting for 40cm and 45cm barrels.
 
-Uses:
+![image](https://user-images.githubusercontent.com/33273931/147861670-67196f27-3960-4983-9a72-dde91e412e7a.png)
+
+Mounting for any 16mm OD barrel.  Uses tension chord method of Thanh's Easiestscar.
+
+All Scars use:
 
   (9) F683ZZ flanged bearings https://www.amazon.com/gp/product/B07Z3DRZX9
   
