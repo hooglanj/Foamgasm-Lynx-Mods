@@ -3,11 +3,11 @@ Mods for the Orion Lynx blaster
 
 ![image](https://user-images.githubusercontent.com/33273931/142133628-3b84a365-102c-4ad1-a6dc-da28af6b33f6.png)
 
-  Pump with integral foregrip and knurling.  With and without Lynx logo.
+Pump with integral foregrip and knurling.  With and without Lynx logo.
   
 ![image](https://user-images.githubusercontent.com/33273931/147861594-fec3dc4b-9738-47b4-973f-6dd13fe228a0.png)
 
-  Picatinny foregrip with knurling.
+Picatinny foregrip with knurling.  Uses two each M4 x 30 screw and M4 nut.
 
 Grip backstrap with knurling.  May be used on foregrip or receiver.
 
