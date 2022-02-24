@@ -13,18 +13,18 @@ Grip backstrap with knurling.  May be used on foregrip or receiver.
 
 ![image](https://user-images.githubusercontent.com/33273931/142133326-425931e9-8a80-49aa-89ba-89475432176d.png)
 
-Bearing Scar for use specifically on Lynx blasters with 16mm OD barrel. 10° twist angle.
+BCAR for use specifically on Lynx blasters with 16mm OD barrel.
 
 ![image](https://user-images.githubusercontent.com/33273931/142246619-2608f94c-daed-4449-b745-f4105d3f5a29.png)
 ![image](https://user-images.githubusercontent.com/33273931/142246660-f25e1bde-2589-4c16-b608-df0a19d79367.png)
 
 Mounting for 40cm and 45cm barrels.
 
-![image](https://user-images.githubusercontent.com/33273931/147861670-67196f27-3960-4983-9a72-dde91e412e7a.png)
+![BCAR Collet 15°](https://user-images.githubusercontent.com/33273931/155583522-93ce72b0-15b2-4a15-a7f0-f1733ad63b45.png)
 
-Mounting for any 16mm OD barrel.  Uses tension chord method of Thanh's Easiestscar.
+Collet mounting for any 16mm OD barrel.  Suitable for 47cm (18.5") or longer Lynx barrels.
 
-All Scars use:
+All BCARs use:
 
   (9) F683ZZ flanged bearings https://www.amazon.com/gp/product/B07Z3DRZX9
   
